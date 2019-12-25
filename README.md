@@ -1,7 +1,10 @@
 This is my first project with Adonisjs
+
 Features covered:
+
 migrations, middlewares, Lucid ORM and more
-* Does not deal with authentication feature *
+
+--Does not deal with authentication feature--
 
 # Adonis API application
 
