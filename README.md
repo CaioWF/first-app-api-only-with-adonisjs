@@ -1,3 +1,8 @@
+This is my first project with Adonisjs
+Features covered:
+migrations, middlewares, Lucid ORM and more
+* Does not deal with authentication feature *
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
